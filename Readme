@@ -1,0 +1,20 @@
+Hello sir,
+
+The folder contains all files related to the coding assignment assigned.
+No source code or any other material was used in order to complete the assignment.
+In order to understand the TestInput and concvert the example into binary file the software "HXD-hex editor" was used.
+The 2 input files that have been used are testexample.binimage (the example in the pdf) and the "TestInput.binimage".
+The output files are MyTestExampleOutput.piximage(for example input) and MyTestOutputImage.piximage(Required output).
+
+Compile : make
+
+Run :
+./codingassignment "Input file name" "output file name"
+
+To my knowledge the program runs perfectly.
+Please let me know if anything else needs to be done.
+
+
+Abhishek Jain
+ECE Georgiatech 
+
